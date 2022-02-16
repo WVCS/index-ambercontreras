@@ -1,3 +1,40 @@
-body {
-
+h1{
+  font-size:50px;
+  
+  color: #016064
+    
+   
 }
+
+body {
+  Background-color: #c1e7e5
+    
+  }
+  img {
+      border: dotted 4px #36758B;
+}
+        
+img: hover {
+ border: dashed 2px psatel purple;
+}
+
+h1:hover{
+  color: white;
+  font-size: 80px;
+}
+
+Nav {
+list- style-type: none;
+position: fixed;
+background-color:antiquewhite;
+top: 0;
+width: 100%;
+Left: 0;
+}
+li {
+display: inline;
+ padding:15px;
+float:right;
+}
+
+a{}
