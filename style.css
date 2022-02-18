@@ -1,21 +1,21 @@
 h1{
   font-size:50px;
   
-  color: #016064
+  color: #016064;
     
    
 }
 
 body {
-  Background-color: #c1e7e5
+  Background-color: #c1e7e5;
     
   }
   img {
       border: dotted 4px #36758B;
 }
         
-img: hover {
- border: dashed 2px psatel purple;
+img:hover {
+ border: dashed 2px pastelpurple;
 }
 
 h1:hover{
@@ -23,7 +23,7 @@ h1:hover{
   font-size: 80px;
 }
 
-Nav {
+nav {
 list- style-type: none;
 position: fixed;
 background-color:antiquewhite;
@@ -33,8 +33,12 @@ Left: 0;
 }
 li {
 display: inline;
- padding:15px;
+ padding:10px;
 float:right;
 }
+li:hover {
+  Background-color:peach;
+}
 
-a{}
+a{ text-decoration:none;
+  color:Salmon;}
